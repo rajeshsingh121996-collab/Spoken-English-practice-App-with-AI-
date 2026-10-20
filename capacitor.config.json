@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.bolchaal",
+  "appName": "Bol Chaal",
+  "webDir": "web",
+  "android": {
+    "allowMixedContent": false
+  }
+}
